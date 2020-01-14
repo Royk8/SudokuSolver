@@ -2,7 +2,7 @@ public class main {
     public static void main(String[] args) {
         Matriz sudo = new Matriz();
         sudo.printMatriz();
-        sudo.addDate(3,0,5);
+        /*sudo.addDate(3,0,5);
         sudo.addDate(6,0,6);
         sudo.addDate(2,1,4);
         sudo.addDate(3,2,1);
@@ -29,9 +29,9 @@ public class main {
         sudo.addDate(4,7,6);
         sudo.addDate(4,8,0);
         sudo.addDate(8,8,4);
-        sudo.addDate(9,8,5);
+        sudo.addDate(7,8,5);*/
 
-        /*sudo.addDate(2,0,1);
+        sudo.addDate(2,0,1);
         sudo.addDate(4,0,5);
         sudo.addDate(3,0,6);
         sudo.addDate(9,1,0);
@@ -56,7 +56,7 @@ public class main {
         sudo.addDate(3,7,8);
         sudo.addDate(9,8,2);
         sudo.addDate(8,8,3);
-        sudo.addDate(6,8,7);*/
+        sudo.addDate(6,8,7);
 
         /*sudo.addDate(8,0,0);
         sudo.addDate(3,1,2);
